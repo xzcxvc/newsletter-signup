@@ -15,3 +15,9 @@ h6,
 span {
   color: #292944;
 }
+
+.button:hover {
+  -webkit-box-shadow: 0px 20px 50px -15px rgba(250, 97, 80, 0.88);
+  -moz-box-shadow: 0px 20px 50px -15px rgba(250, 97, 80, 0.88);
+  box-shadow: 0px 20px 50px -15px rgba(250, 97, 80, 0.88);
+}
